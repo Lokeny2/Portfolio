@@ -6,7 +6,7 @@ A responsive portfolio website built with Bootstrap 5 to showcase my projects, s
 
 ## Live Demo
 
-https://github.com/lokeny2.github.io/Portfolio
+https://lokeny2.github.io/Portfolio/
 
 ## Technologies Used
 
