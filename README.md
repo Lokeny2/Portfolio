@@ -59,7 +59,7 @@ This portfolio will be progressively updated as I complete more projects:
 
 - ✅ Tanit Coding School (Landing Page)
 - ✅ Portfolio Website
-- ⬜ To-Do List
+- ✅ To-Do List
 - ⬜ Notes App
 - ⬜ Custom Calculator
 - ⬜ Product Filter Page
