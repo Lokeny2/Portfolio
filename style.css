@@ -195,3 +195,18 @@ body {
     font-size: 2rem !important;
   }
 }
+
+
+/* FOOTER */
+.hover-text-warning:hover {
+  color: #ffc107 !important;
+  transition: color 0.2s ease;
+}
+
+footer a {
+  transition: color 0.2s ease;
+}
+
+footer a:hover {
+  color: #ffc107 !important;
+}
